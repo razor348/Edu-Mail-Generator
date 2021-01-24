@@ -13,6 +13,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
+from selenium.common.exceptions import NoSuchElementException
 from random import randint
 from __constants.const import *
 from __banner.myBanner import bannerTop
@@ -447,11 +448,20 @@ def start_bot(start_url, email, college, collegeID):
             EC.element_to_be_clickable(
                 (By.CSS_SELECTOR, '#inputEduGoal option[value="B"]'))
         ).click()
-
+        
         time.sleep(2)
 
+    try:
+        dropdown_menu = Select(driver.find_element_by_id('inputMajorCategory'))
+        dropdown_menu.select_by_index(random.randint(1, 4))
+    except NoSuchElementException:
+        pass
+
+        time.sleep(2.5)
+        
         dropdown_menu = Select(driver.find_element_by_id('inputMajorId'))
         dropdown_menu.select_by_index(random.randint(1, 7))
+        
 
         time.sleep(2.5)
         WebDriverWait(driver, 60).until(
