@@ -1,6 +1,8 @@
 # Edu-Mail-Generator-Mod
 For educational purposes
-All credits goes to the developer of this project --- (I just modified it)
+All credits goes to the developer of this project 
+I just modified it // Added more colleges // Fixed errors.
+Let me know if you face any problem.
 
 ----- Generate Free Edu Mail(s) within minutes -----
 
