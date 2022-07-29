@@ -1,0 +1,70 @@
+1659084823900	geckodriver	INFO	Listening on 127.0.0.1:53355
+1659084826970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANKIT_~1\\AppData\\Local\\Temp\\rust_mozprofileiahpmf"
+1659084911481	geckodriver	INFO	Listening on 127.0.0.1:53472
+1659084914535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANKIT_~1\\AppData\\Local\\Temp\\rust_mozprofileEzjRZz"
+1659084914864	Marionette	INFO	Marionette enabled
+1659084914867	Marionette	INFO	Listening on port 53483
+WebDriver BiDi listening on ws://localhost:53473
+Read port: 53483
+1659084915006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANKIT_~1\\AppData\\Local\\Temp\\rust_mozprofileEzjRZz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53473/devtools/browser/63be3b7c-a0e4-4c71-af81-4d01c927a81c
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.opencccapply.net/Matront-fort-Why-sit-in-see-no-Iuglist-reme-Do-c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659085039548	Marionette	INFO	Stopped listening on port 53483
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659085054035	geckodriver	INFO	Listening on 127.0.0.1:53593
+1659085057087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53594" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANKIT_~1\\AppData\\Local\\Temp\\rust_mozprofileNBiVqi"
+1659085057411	Marionette	INFO	Marionette enabled
+1659085057414	Marionette	INFO	Listening on port 53605
+WebDriver BiDi listening on ws://localhost:53594
+Read port: 53605
+1659085057539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANKIT_~1\\AppData\\Local\\Temp\\rust_mozprofileNBiVqi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53594/devtools/browser/ed2483f9-2eea-4bd2-b9e9-8bcab60eafac
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.opencccapply.net/gateway/assets/apply-welcome.js;jsessionid=6D5593262EDB79F7D618CDC519AAC72E?v=17aa3de, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://www.opencccapply.net/Matront-fort-Why-sit-in-see-no-Iuglist-reme-Do-c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659085240695	Marionette	INFO	Stopped listening on port 53605
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANKIT_~1\\AppData\\Local\\Temp\\rust_mozprofileYCk0My"
+1659085171421	Marionette	INFO	Marionette enabled
+1659085171425	Marionette	INFO	Listening on port 53734
+WebDriver BiDi listening on ws://localhost:53719
+Read port: 53734
+1659085171583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANKIT_~1\\AppData\\Local\\Temp\\rust_mozprofileYCk0My\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53719/devtools/browser/5c069c33-292b-4cc7-baa4-3df9a8569c65
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.opencccapply.net/Matront-fort-Why-sit-in-see-no-Iuglist-reme-Do-c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659085175010	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659085184698	Marionette	INFO	Stopped listening on port 53734
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659085198658	geckodriver	INFO	Listening on 127.0.0.1:53783
+1659085201708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANKIT_~1\\AppData\\Local\\Temp\\rust_mozprofile0P2Xl5"
+1659085202079	Marionette	INFO	Marionette enabled
+1659085202084	Marionette	INFO	Listening on port 53794
+WebDriver BiDi listening on ws://localhost:53784
+Read port: 53794
+1659085202248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANKIT_~1\\AppData\\Local\\Temp\\rust_mozprofile0P2Xl5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53784/devtools/browser/01e1d724-7427-4b55-9002-2b30a007e418
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.opencccapply.net/Matront-fort-Why-sit-in-see-no-Iuglist-reme-Do-c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659085205442	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659085210420	Marionette	INFO	Stopped listening on port 53794
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659085222045	geckodriver	INFO	Listening on 127.0.0.1:53835
+1659085225091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53836" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANKIT_~1\\AppData\\Local\\Temp\\rust_mozprofileQwJgZz"
+1659085225368	Marionette	INFO	Marionette enabled
+1659085225372	Marionette	INFO	Listening on port 53853
+WebDriver BiDi listening on ws://localhost:53836
+Read port: 53853
+1659085225493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANKIT_~1\\AppData\\Local\\Temp\\rust_mozprofileQwJgZz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53836/devtools/browser/ece70025-6c85-4d7b-9eba-f75005ae683f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.opencccapply.net/Matront-fort-Why-sit-in-see-no-Iuglist-reme-Do-c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659085228340	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659085243282	Marionette	INFO	Stopped listening on port 53853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
